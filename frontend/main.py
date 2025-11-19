@@ -1,5 +1,5 @@
 import tkinter as tk
-from ui.frames import MainFrame
+from frontend.ui.frames import MainFrame
 
 def main():
     app = MainFrame()
